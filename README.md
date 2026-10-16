@@ -1,3 +1,9 @@
+⚠️ WIP-WARNING
+
+Volatile code. Not for production use. May not even compile atm.
+
+---
+
 ⚠️ DISCLAIMER
 
 This firmware is provided "as is" without any warranties. The user assumes all responsibility for installation, operation, and any consequences. This is not a commercial product and has not been tested for all possible scenarios. Use at your own risk. Don't leave the printer unnatended
